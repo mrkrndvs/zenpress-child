@@ -55,7 +55,7 @@ h4 {font-size: 1.25em;}
 small, .font_small {font-size: 0.8em;}
 
 h2, h3 {
-color: #f68b1f;
+color: #f2f200;
 }
 
 .wp-caption-text {
@@ -74,12 +74,8 @@ sub, sup {
 	Font-size: 1.953em;
 }
 
-blockquote {
-	font-size: 1em;
-}
-
 a:hover {
-    background-color: #fef1e3;
+    background-color: #f2f200;
 }
 
 #primary .post .entry-content, #primary .post .entry-summary, #primary .page .entry-content, #primary .page .entry-summary {
